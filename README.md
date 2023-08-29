@@ -14,6 +14,10 @@ I am @__MariKristiansen__, a biomedical laboratory scientist pursuing a dream of
 - ⛺ In my spare time, I love hikes and camping - always looking for a hidden gem with good view.
 - 📷 Amateur photographer..
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariKristiansen&layout=compact" alt="mari" />
+</div>
+
 ---
 
 <div align="center">
