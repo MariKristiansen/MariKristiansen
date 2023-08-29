@@ -1,16 +1,34 @@
-### Hi there 👋
+<div align="center">
+  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="150"/>
+  <h4>Hello!</h4>
+</div>
 
-<!--
-**MariKristiansen/MariKristiansen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am @__MariKristiansen__, a biomedical laboratory scientist pursuing a dream of becoming a developer. I am curious and driven to learn more and expand my skillset.
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I enjoy exploring frontend development, using technologies like jQuery and Bootstrap
+- 🎨 Wanting to learn more about UX design
+- 🍃 I am currently studying backend development (graduating in December), atm learning about databases such as MySQL and MongoDB
+- 🔈 I am fluent in Norwegian and English
+- ⛺ In my spare time, I love hikes and camping - always looking for a hidden gem with good view.
+- 📷 Amateur photographer..
+
+---
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="40" height="40"/>
+</div>
