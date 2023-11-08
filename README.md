@@ -8,7 +8,7 @@ I am @__MariKristiansen__, a biomedical laboratory scientist pursuing a dream of
 <br>
 
 - 🔭 I enjoy exploring frontend development.
-- 🍃 I am currently studying backend development (graduating in December), atm learning about REST APIs.
+- 🍃 I am currently studying backend development (graduating in December), atm learning about server deployment.
 - 🔈 I am fluent in Norwegian and English
 - ⛺ In my spare time, I love hikes and camping - always looking for a hidden gem with good view.
 - 📷 Amateur photographer..
