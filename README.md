@@ -3,15 +3,7 @@
   <h4>Hello!</h4>
 </div>
 
-I am @__MariKristiansen__, a biomedical laboratory scientist pursuing a dream of becoming a developer. I am curious and driven to learn more and expand my skillset.
-
 <br>
-
-- 🔭 I enjoy exploring frontend development.
-- 🍃 I am currently studying backend development (graduating in December), atm learning about server deployment.
-- 🔈 I am fluent in Norwegian and English
-- ⛺ In my spare time, I love hikes and camping - always looking for a hidden gem with good view.
-- 📷 Amateur photographer..
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariKristiansen&layout=compact" alt="mari" />
